@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    /* The call back for the app bar */
+    /* The call back for the app bar
+     * Frank:  What does this do? */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
